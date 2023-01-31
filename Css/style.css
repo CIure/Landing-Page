@@ -1,0 +1,61 @@
+*{ margin: 0;
+   padding:0;
+   
+}
+
+.div_main{
+    background-color: rgb(6, 163, 163);
+}
+.div_title{
+    text-align: center;
+    padding-bottom: 50%;
+    padding-top: 50%;
+    
+}
+
+.title{
+    color:rgb(3, 110, 160);
+}
+
+.div_context{
+  width: 70%;
+  position: absolute;
+
+}
+
+.text_context{
+   font-size: 20px;
+   font-family: sans-serif;
+   font-weight: bolder;
+   
+}
+/* Colocar uma animação como se o texto
+estivesse sendo digitado da esquerda para 
+direita*/
+
+
+.div_img{
+    margin: auto;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.img-perfil{
+    float: right;
+    left: 70%;
+    width: 30%;
+   border-radius: 70px;
+   margin-bottom: 30px;
+}
+
+.div_context2{
+    background-color:rgb(255, 255, 255)
+}
+
+.Contats{
+    background-color: aliceblue;
+}
+
+.div_rodape{
+    background-color: aliceblue;
+}
